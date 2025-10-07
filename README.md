@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date: 06/10/2025
+## Date: 07/10/2025
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
@@ -81,7 +81,6 @@ content = """
 </body>
 </html>
 """
-
 
 
 class MyHandler(BaseHTTPRequestHandler):
